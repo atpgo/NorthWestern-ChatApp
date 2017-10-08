@@ -3,7 +3,7 @@
 * [NodeJs](http://nodejs.org) >= 4.8.3
 
 ## Youtube
-https://www.youtube.com/watch?v=HlG4BZ4csJg&t=60s
+https://www.youtube.com/watch?v=HlG4BZ4csJg
 
 ## API Docs
 https://documenter.getpostman.com/view/2896961/chat/716dFyX?source=team_library
